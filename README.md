@@ -1,5 +1,5 @@
-CS 2110 HW 10
-Rishabh Ghora
+# Flappy Bird GBA Game
+
 --------------------------------------------------------------------------------
 
 Flappy Bird
@@ -9,6 +9,6 @@ is back on a gameboy simulator... Enjoy!
 
 Controls
 --------------------------------------------------------------------------------
-A...........Jump
-Start.......Start Game
-Select......Reset game
+A ->        Jump   
+Start ->    Start Game     
+Select ->   Reset game  
